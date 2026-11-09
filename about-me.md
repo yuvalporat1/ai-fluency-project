@@ -1,4 +1,4 @@
 # About me
 
-Name: Alon
-Faculty: Chemical Engineering
+Name: Yuval Porat
+Faculty: Electrical Engineering 
